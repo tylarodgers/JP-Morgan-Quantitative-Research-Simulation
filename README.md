@@ -38,7 +38,7 @@ Additional financial ratios, including debt-to-income and payment-to-income, wer
 
 The model outputs the probability that a borrower will default on a loan.
 
-## Task 4 – Credit Rating Quantization
+## Task 4 – Credit Rating Quantisation
 
 A credit rating system was created by mapping FICO scores into discrete rating buckets. The goal was to determine bucket boundaries that best summarise the data.
 
